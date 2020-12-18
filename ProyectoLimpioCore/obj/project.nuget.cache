@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ps7EoXXTl9cnpf8knrR1t7ihM/WpdVkqRv7UmtOWI7C7yoIYG6kK+3bQvtOrDjwoc+CVyjAho1gPpbRvDRFLRw==",
+  "dgSpecHash": "3ZzLb0Zqy06NFObK+9MwsVN2PNiB5x7lqDt+ks5pGu8f63Q0lvDcdYKKVOG4jyBMJ55B6Uaoix0d9XGRctPeyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nazaret\\Repos\\Tajamar-C-ProyectoLimpioCore\\ProyectoLimpioCore\\ProyectoLimpioCore.csproj",
+  "projectFilePath": "C:\\Users\\AlumnoMCSD\\Repos\\Tajamar-C-ProyectoLimpioCore\\ProyectoLimpioCore\\ProyectoLimpioCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Nazaret\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\Nazaret\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\Nazaret\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\Nazaret\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }

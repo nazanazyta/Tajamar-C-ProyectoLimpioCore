@@ -23,14 +23,13 @@
 
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                <li class="nav-item">
+                    <a class="nav-link text-warning" asp-controller="Home" asp-action="Index">Home</a>
+                    @*@Html.ActionLink("Home", "Index", "Home")*@
                 </li>
                 <li class="nav-item">
-                    @Html.ActionLink("Home", "Index", "Home")
-                </li>
-                <li class="nav-item">
-                    @Html.ActionLink("Cosas", "Cosas", "Home")
+                    <a class="nav-link text-primary" asp-controller="Home" asp-action="Cosas">Cosas extra</a>
+                    @*@Html.ActionLink("Cosas", "Cosas", "Home")*@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Link</a>
@@ -59,6 +58,16 @@
 
         <div class="starter-template">
             <h1>Plantilla personalizada</h1>
+            @if (IsSectionDefined("imagenes"))
+            {
+                //ALGUNA VISTA ESTÁ RECIBIENDO section
+                @RenderSection("imagenes", false)
+            }
+            else
+            {
+                //PONEMOS EL CÓDIGO ESTÁTICO DEL Layout
+                <img src="~/images/home.jpg" style="width: 100px; height: 100px" />
+            }
             <button type="button" id="botonmensaje" class="btn-info">
                 Probar Jquery
             </button>

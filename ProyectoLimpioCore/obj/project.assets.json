@@ -8,23 +8,25 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nazaret\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nazaret\\Repos\\Tajamar-C-ProyectoLimpioCore\\ProyectoLimpioCore\\ProyectoLimpioCore.csproj",
+      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\Repos\\Tajamar-C-ProyectoLimpioCore\\ProyectoLimpioCore\\ProyectoLimpioCore.csproj",
       "projectName": "ProyectoLimpioCore",
-      "projectPath": "C:\\Users\\Nazaret\\Repos\\Tajamar-C-ProyectoLimpioCore\\ProyectoLimpioCore\\ProyectoLimpioCore.csproj",
-      "packagesPath": "C:\\Users\\Nazaret\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nazaret\\Repos\\Tajamar-C-ProyectoLimpioCore\\ProyectoLimpioCore\\obj\\",
+      "projectPath": "C:\\Users\\AlumnoMCSD\\Repos\\Tajamar-C-ProyectoLimpioCore\\ProyectoLimpioCore\\ProyectoLimpioCore.csproj",
+      "packagesPath": "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AlumnoMCSD\\Repos\\Tajamar-C-ProyectoLimpioCore\\ProyectoLimpioCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nazaret\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AlumnoMCSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
